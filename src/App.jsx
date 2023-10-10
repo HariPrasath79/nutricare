@@ -241,10 +241,6 @@ function App() {
         </div>
       </div>
 
-      <div>
-        <p>hello world</p>
-      </div>
-
 
     </>
   )
